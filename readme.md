@@ -1,10 +1,4 @@
-# 基于SSM的旅游景点购票管理系统
-
-## 获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**景区7** ，获取完整版源码
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于SSM的旅游景点购票管理系统7
 
 ## 1、项目介绍
 
@@ -14,7 +8,7 @@
 
 用户：登录注册、景区购票、评论、预订客房、收藏、发布攻略等
 
-![架构图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211152210744.jpg)
+![架构图](https://www.codeshop.fun/Typora-Images/202211152210744.jpg)
 
 
 ## 2、项目技术
@@ -37,55 +31,48 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211152209032.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202211152209032.jpg)
 
 ### 4.2前端 模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211152209372.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202211152209372.jpg)
 
-![前端-景区](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211152209680.jpg)
+![前端-景区](https://www.codeshop.fun/Typora-Images/202211152209680.jpg)
 
-![前端-酒店](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211152209921.jpg)
+![前端-酒店](https://www.codeshop.fun/Typora-Images/202211152209921.jpg)
 
-![前端-客房](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211152209716.jpg)
+![前端-客房](https://www.codeshop.fun/Typora-Images/202211152209716.jpg)
 
 ### 4.3 用户模块
 
-![用户-购票管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211152209137.jpg)
+![用户-购票管理](https://www.codeshop.fun/Typora-Images/202211152209137.jpg)
 
-![用户-客房管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211152209090.jpg)
+![用户-客房管理](https://www.codeshop.fun/Typora-Images/202211152209090.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211152210541.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202211152210541.jpg)
 
-![管理员-景点管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211152210770.jpg)
+![管理员-景点管理](https://www.codeshop.fun/Typora-Images/202211152210770.jpg)
 
-![管理员-购票管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211152210963.jpg)
+![管理员-购票管理](https://www.codeshop.fun/Typora-Images/202211152210963.jpg)
 
-![管理员-酒店管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211152210369.jpg)
+![管理员-酒店管理](https://www.codeshop.fun/Typora-Images/202211152210369.jpg)
 
-![管理员-客房类型管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211152210679.jpg)
+![管理员-客房类型管理](https://www.codeshop.fun/Typora-Images/202211152210679.jpg)
 
-![管理员-客房信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211152210627.jpg)
+![管理员-客房信息管理](https://www.codeshop.fun/Typora-Images/202211152210627.jpg)
 
-![管理员-客房预订管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211152210021.jpg)
+![管理员-客房预订管理](https://www.codeshop.fun/Typora-Images/202211152210021.jpg)
 
-![管理员-其他管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211152210394.jpg)
+![管理员-其他管理](https://www.codeshop.fun/Typora-Images/202211152210394.jpg)
 
 ### 4.5 文档目录
 
-![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211152210123.jpg)
+![文档目录](https://www.codeshop.fun/Typora-Images/202211152210123.jpg)
 
-## 5、视频演示
+## 获取方式
 
-[点击播放视频，视频位于文章最后](输入链接)
+下方扫一扫关注后，后台回复关键词：**景区**，查看导入教程视频、sql脚本和源码等
 
-## 6、获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**景区7** ，获取完整版源码
-
-
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
